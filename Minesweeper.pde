@@ -1,4 +1,3 @@
-
 import de.bezier.guido.*;
 private int NUM_ROWS = 20; 
 private int NUM_COLS = 20;
